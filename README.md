@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BANG-mj
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently researching LLM MI & Bias
 - 📫 How to reach me 12bangmj@gmail.com
 
 <!---
