@@ -23,13 +23,16 @@ Currently studying **AI Alignment** through the [ARENA Curriculum](https://www.a
 
 학습 노트는 [블로그](https://bang-mj.github.io)에 기록하고 있습니다.
 
+🏔️ **Off-screen**: 산을 좋아합니다. 2024년 여름 **Tour du Mont Blanc (TMB)** 을 백패킹으로 완주했습니다. 알프스 3개국 170km, 9박 10일의 여정이었어요. 다음 목표는 또 다른 long-distance trail.
+
 ---
 
 ### 🎯 Current Focus
 
 - 🏛️ Research at **[HAI Lab @ Ewha](https://hai.ewha.ac.kr/)**
-- 🔬 **ARENA Curriculum** — Week 1 of 10 (Chapter 0: Fundamentals)
-- 📚 Studying: Mechanistic Interpretability, Bias in ML, RLHF, LLM Evaluations
+  - 🔬 **Media Bias** in LLMs through Mechanistic Interpretability
+  - 🌏 **Cultural Bias** in AI systems
+- 📚 Self-studying **AI Alignment** via [ARENA Curriculum](https://www.arena.education/) — Week 1 of 10
 - ✍️ Writing at [bang-mj.github.io](https://bang-mj.github.io)
 
 ---
@@ -38,9 +41,17 @@ Currently studying **AI Alignment** through the [ARENA Curriculum](https://www.a
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **ML / Research** | <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=dark" /> |
-| **Writing** | <img src="https://skillicons.dev/icons?i=markdown&theme=dark" /> Quarto, Notion |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,c,js&theme=dark" /> SQL |
+| **ML / DL** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /> Hugging Face, LangChain |
+| **Data** | <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /> Pandas, NumPy |
+| **Tools** | <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker&theme=dark" /> |
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **2025 국립중앙도서관 도서관 데이터 활용 공모전 — 최우수상**
+- 🎓 **2024 제3회 OUTTA AI Bootcamp** 수료
 
 ---
 
@@ -57,10 +68,19 @@ Currently studying **AI Alignment** through the [ARENA Curriculum](https://www.a
 
 ---
 
-### 📂 Featured
+### 📂 Featured Projects
 
-* 🧠 **[ARENA Curriculum](https://github.com/BANG-mj/ARENA_3.0)** — My fork with exercises and learning notes
+#### 🎓 Graduation Project — RAG-based Book Club Platform
+
+* 📖 **[New_Beyond](https://github.com/BANG-mj/New_Beyond)** — RAG 기반 독서 모임 웹 플랫폼 (개선 버전)
+* 📚 **[Beyond_Imagination](https://github.com/BANG-mj/Beyond_Imagination)** — RAG 기반 독서 모임 웹 플랫폼 (초기 버전)
+
+#### 📖 Study Logs
+
+* 🧠 **[ARENA Curriculum](https://github.com/BANG-mj/ARENA_3.0)** — AI alignment self-study (in progress)
 * ✍️ **[Personal Blog](https://github.com/BANG-mj/BANG-mj.github.io)** — Quarto-based learning blog
+* 🤖 **[7th-ML](https://github.com/BANG-mj/7th-ML)** — 학술 동아리 Machine Learning 학습 기록
+* 🔥 **[8th-DL](https://github.com/BANG-mj/8th-DL)** — 학술 동아리 Deep Learning 학습 기록
 
 ---
 
