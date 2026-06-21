@@ -32,19 +32,21 @@ Learning notes are documented at my [blog](https://bang-mj.github.io).
 - 🏛️ Research at **[HAI Lab @ Ewha](https://hai.ewha.ac.kr/)**
   - 🔬 **Media Bias** in LLMs through Mechanistic Interpretability
   - 🌏 **Cultural Bias** in AI systems
-- 📚 Self-studying **AI Alignment** via [ARENA Curriculum](https://www.arena.education/) — Week 1 of 10
+- 📚 Self-studying **AI Alignment** via [ARENA Curriculum](https://www.arena.education/) 
 - ✍️ Writing at [bang-mj.github.io](https://bang-mj.github.io)
 
 ---
 
 ### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,c,java&theme=dark" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> |
-| **ML / DL** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> |
-| **Data** | <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker&theme=dark" /> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> |
+| **ML / DL** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> |
+| **Data** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> |
+| **Tools** | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
 
 ---
 
@@ -70,16 +72,15 @@ Learning notes are documented at my [blog](https://bang-mj.github.io).
 
 ### 📂 Featured Projects
 
-#### 🎓 Graduation Project — RAG-based Book Club Platform
+#### 🎓 Graduation Project
 
-* 📖 **[New_Beyond](https://github.com/BANG-mj/New_Beyond)** — RAG 기반 독서 모임 웹 플랫폼
+* 📖 **[New_Beyond](https://github.com/BANG-mj/New_Beyond)** — RAG-based Book Club Platform
 
 #### 📖 Study Logs
 
 * 🧠 **[ARENA Curriculum](https://github.com/BANG-mj/ARENA_3.0)** — AI alignment self-study (in progress)
 * ✍️ **[Personal Blog](https://github.com/BANG-mj/BANG-mj.github.io)** — Quarto-based learning blog
-* 🤖 **[7th-ML](https://github.com/BANG-mj/7th-ML)** — AI 학술 동아리 Machine Learning 학습 기록
-* 🔥 **[8th-DL](https://github.com/BANG-mj/8th-DL)** — AI 학술 동아리 Deep Learning 학습 기록
+* 🤖 **Euron(Data Analytics & AI Club @ Ewha)** — [Machine Learning Track](https://github.com/BANG-mj/7th-ML) · [Deep Learning Track](https://github.com/BANG-mj/8th-DL)
 
 ---
 
