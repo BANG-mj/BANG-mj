@@ -43,7 +43,7 @@ Learning notes are documented at my [blog](https://bang-mj.github.io).
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,c,java&theme=dark" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> |
 | **ML / DL** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> |
-| **Data** | <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /> Pandas, NumPy |
+| **Data** | <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker&theme=dark" /> |
 
 ---
