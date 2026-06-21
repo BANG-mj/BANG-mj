@@ -1,7 +1,7 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1e3a8a,100:0a0e27&height=280&section=header&text=Minji%20Bang&fontSize=60&fontColor=00f2ff&animation=fadeIn&fontAlignY=38&desc=Researching%20MI%20%26%20Bias%20%26%20AI%20Alignment&descSize=20&descAlignY=55)](https://github.com/BANG-mj)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1e3a8a,100:0a0e27&height=280&section=header&text=Minji%20Bang&fontSize=60&fontColor=00f2ff&animation=fadeIn&fontAlignY=38&desc=Researching%20MI%20%7C%20Bias%20%7C%20AI%20Alignment&descSize=20&descAlignY=55)](https://github.com/BANG-mj)
 
 <p align="center">
-  <img src="./assets/profile.jpg" width="180" alt="profile photo" />
+  <img src="./assets/profile.jpg" width="280" alt="profile photo" />
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@ MS student at **Ewha Womans University**, researching at [Human-Centered AI Lab]
 
 Currently studying **AI Alignment** through the [ARENA Curriculum](https://www.arena.education/), with research interests in **Mechanistic Interpretability**, **Bias & Fairness in ML**, and AI safety.
 
-학습 노트는 [블로그](https://bang-mj.github.io)에 기록하고 있습니다.
+Learning notes are documented at my [blog](https://bang-mj.github.io).
 
-🏔️ **Off-screen**: 산을 좋아합니다. 2024년 여름 **Tour du Mont Blanc (TMB)** 을 백패킹으로 완주했습니다. 알프스 3개국 170km, 9박 10일의 여정이었어요. 다음 목표는 또 다른 long-distance trail.
+🏔️ **Off-screen**: I love mountains. Completed **Tour du Mont Blanc (TMB)** as a backpacking trip in summer 2023. Next goal: backpacking in Patagonia.
 
 ---
 
@@ -41,8 +41,8 @@ Currently studying **AI Alignment** through the [ARENA Curriculum](https://www.a
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,c,js&theme=dark" /> SQL |
-| **ML / DL** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /> Hugging Face, LangChain |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,c,java&theme=dark" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> |
+| **ML / DL** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> |
 | **Data** | <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /> Pandas, NumPy |
 | **Tools** | <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker&theme=dark" /> |
 
@@ -72,15 +72,14 @@ Currently studying **AI Alignment** through the [ARENA Curriculum](https://www.a
 
 #### 🎓 Graduation Project — RAG-based Book Club Platform
 
-* 📖 **[New_Beyond](https://github.com/BANG-mj/New_Beyond)** — RAG 기반 독서 모임 웹 플랫폼 (개선 버전)
-* 📚 **[Beyond_Imagination](https://github.com/BANG-mj/Beyond_Imagination)** — RAG 기반 독서 모임 웹 플랫폼 (초기 버전)
+* 📖 **[New_Beyond](https://github.com/BANG-mj/New_Beyond)** — RAG 기반 독서 모임 웹 플랫폼
 
 #### 📖 Study Logs
 
 * 🧠 **[ARENA Curriculum](https://github.com/BANG-mj/ARENA_3.0)** — AI alignment self-study (in progress)
 * ✍️ **[Personal Blog](https://github.com/BANG-mj/BANG-mj.github.io)** — Quarto-based learning blog
-* 🤖 **[7th-ML](https://github.com/BANG-mj/7th-ML)** — 학술 동아리 Machine Learning 학습 기록
-* 🔥 **[8th-DL](https://github.com/BANG-mj/8th-DL)** — 학술 동아리 Deep Learning 학습 기록
+* 🤖 **[7th-ML](https://github.com/BANG-mj/7th-ML)** — AI 학술 동아리 Machine Learning 학습 기록
+* 🔥 **[8th-DL](https://github.com/BANG-mj/8th-DL)** — AI 학술 동아리 Deep Learning 학습 기록
 
 ---
 
