@@ -37,7 +37,6 @@ Learning notes are documented at my [blog](https://bang-mj.github.io).
 
 ---
 
-### 🛠️ Tech Stack
 
 ### 🛠️ Tech Stack
 
