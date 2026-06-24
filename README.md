@@ -73,7 +73,7 @@ Learning notes are documented at my [blog](https://bang-mj.github.io).
 
 #### 🎓 Graduation Project
 
-* 📖 **[New_Beyond](https://github.com/BANG-mj/New_Beyond)** — RAG-based Book Club Platform
+* 📖 **[Beyond-Imagination](https://github.com/Beyond-Imagination38/Modam)** — RAG-based Book Club Platform
 
 #### 📖 Study Logs
 
